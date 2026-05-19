@@ -9,7 +9,7 @@ A especificação dos requisitos abaixo delimita o escopo de atuação do protó
 
 * **RF01 - Captura de Fluxo de Vídeo:** O sistema deve ser capaz de capturar e processar continuamente o fluxo de vídeo proveniente de uma webcam comum ou câmera integrada.
 * **RF02 - Detecção Automatizada de EPIs:** O sistema deve identificar, por meio do modelo de visão computacional treinado, a presença ou a ausência de 6 EPIs prioritários: capacete, óculos de segurança, luvas, protetor auricular/abafador, máscara e colete refletivo.
-* **RF03 - Lógica de Aptidão por Função:** O sistema deve executar uma inteligência de regras configurável que cruza os EPIs detectados com as exigências específicas da área ou função, emitiendo o veredito de **APTO** ou **INAPTO** para o trabalho em tempo real.
+* **RF03 - Lógica de Aptidão por Função:** O sistema deve executar uma inteligência de regras configurável que cruza os EPIs detectados com as exigências específicas da área ou função, emitindo o veredito de **APTO** ou **INAPTO** para o trabalho em tempo real.
 * **RF04 - Disparo de Alertas Visuais e Sonoros:** O sistema deve emitir um aviso sonoro e alertas visuais imediatos na tela de monitoramento assim que uma situação de não conformidade (colaborador inapto) for detectada.
 * **RF05 - Painel de Monitoramento (Dashboard):** O sistema deve disponibilizar uma interface gráfica (dashboard) centralizada para exibição do status de conformidade atual e dos alertas gerados.
 * **RF06 - Registro de Log de Auditoria:** O sistema deve armazenar em banco de dados o histórico de cada detecção de risco, salvando dados cruciais como data, hora e a respectiva inconformidade para fins de rastreabilidade.
