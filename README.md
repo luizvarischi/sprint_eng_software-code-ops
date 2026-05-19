@@ -17,7 +17,7 @@ A nossa solução propõe a transição para um modelo de **Segurança Industria
 * **Dentro do Escopo:** Detecção de 6 EPIs prioritários (capacete, óculos de segurança, luvas, protetor auricular/abafador, máscara e colete refletivo), emissão de alertas em tempo real, lógica de aptidão customizada por função, integração com câmeras e geração de relatórios de conformidade.
 * **Fora do Escopo Atual:** Controle de acesso físico (catracas/portas), armazenamento de vídeos em nuvem, identificação nominal do colaborador (reconhecimento facial), emissão automática de advertências/penalidades e gestão de estoque de EPIs.
 
-## 🛠️ Escolhas Tecnológicas e Justificativa Técnica
+## Escolhas Tecnológicas e Justificativa Técnica
 A arquitetura do projeto foi estruturada focando em máxima performance e estabilidade para o ecossistema industrial:
 
 * **Linguagem Principal: Python**
